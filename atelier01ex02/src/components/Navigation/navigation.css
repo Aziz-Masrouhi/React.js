@@ -1,0 +1,19 @@
+.navigation{
+    margin-left: 30px;
+    border: 2px rgb(206, 209, 211) solid;
+    background-color: rgb(206, 209, 211);
+   
+}
+.navigation ul{
+    list-style-type: disc;
+}
+.content{
+    border: 2px red solid;
+   
+}
+.footer{
+    border: 2px green solid;
+}
+.footer p{
+    text-align: center;
+}
